@@ -1,0 +1,36 @@
+Package: dev.extbh.jodelemproved
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ExT
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: Debs/dev.extbh.jodelemproved/dev.extbh.jodelemproved_1.0.1_iphoneos-arm.deb
+Size: 24810
+MD5sum: 7f49e633cffa273cbc1c854155110007
+SHA1: a4367f492cd97463d1850cf9ba9c043225092e14
+SHA256: 069c88010e2946470eb8caef431234c138fc4caed7c7387abd3a693b93f43330
+Section: Tweaks
+Homepage: https://extbh.dev
+Description: Allowing You To Fully Use Jodel!
+Author: ExT <emproved@extbh.xyz>
+Depiction: https://repo.extbh.dev/dev.extbh.jodelemproved/
+Name: Jodel EMPROVED
+
+Package: dev.extbh.jodelemproved
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: ExT
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: Debs/dev.extbh.jodelemproved/dev.extbh.jodelemproved_1.0.2_iphoneos-arm.deb
+Size: 25190
+MD5sum: 81744fd1e7bc01364e32dd2e948d6501
+SHA1: a0419706b32ae10da529b96f46f79aabee2f8e8e
+SHA256: db1740afe8f060e7d701dee47812dec8ac0b05d8acb3263829907bd9898dad5d
+Section: Tweaks
+Homepage: https://extbh.dev
+Description: Allowing You To Fully Use Jodel!
+Author: ExT <emproved@extbh.xyz>
+Depiction: https://repo.extbh.dev/dev.extbh.jodelemproved/
+Name: Jodel EMPROVED
+
