@@ -59,10 +59,10 @@ Maintainer: ExT
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: Debs/dev.extbh.jodelemproved/dev.extbh.jodelemproved_1.0.4_iphoneos-arm.deb
-Size: 25532
-MD5sum: d9ddee93d54fa00b67f6d0ff8df985e1
-SHA1: e9a9f2591ca7c318df24a01bd5dc902f0a8e8120
-SHA256: 610537a87fa203a7b6783e8567c8362f8c05e919ce82aa076d10e4061f92b425
+Size: 25524
+MD5sum: c953cd7354cdb73675a8b09bb6b397eb
+SHA1: e12c1fecb99362c044edd3a4174f6a36b06fe326
+SHA256: 547eceb7dd86dd311ecb0b35471d889c4e9627f6afad2369b527d64c1f55af96
 Section: Tweaks
 Homepage: https://extbh.dev
 Description: Allowing You To Fully Use Jodel!
